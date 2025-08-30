@@ -1,0 +1,41 @@
+.Everything{
+    color: #2F327D;
+    font-size: 28px;
+   
+}
+.youcando{
+    color: orange;
+    font-size: 28px;
+}
+/* orange circle position */
+.orangecircle{
+    position:relative;
+    z-index: 2;
+   
+}
+.classroomleft{
+    position: absolute;
+    top:10px;
+    left:26px;
+    width:95%;
+}
+.classroomcontent{
+    padding: 70px 48px;
+}
+.classroom-c{
+    color:#696984;
+    font-size: 20px;
+}
+.learnbtn{
+font-size: 15px;
+color:#696984;
+text-decoration: underline;
+margin-top: 30px;
+}
+
+/* circle fill at rightclassroom */
+.coloro{
+    color: orange;
+    float: right;
+
+}

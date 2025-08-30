@@ -1,0 +1,52 @@
+.skilllinecontentsec3{
+    text-align: center;
+}
+.what{
+    color:#2F327D;
+    font-size: 33px;
+}
+.isend{
+    color: orange;
+    font-size: 33px;
+}
+.sec3allcontent{
+    padding: 23px 164px;
+    text-align: center;
+    font-size: 19px;
+    color:#696984;
+
+}
+
+
+/* postion two images last */
+.bothimageposition{
+    position:relative;
+    overflow: hidden;
+    z-index: 2;
+}
+ .forallinstruction{
+    position:absolute;
+    top:115px;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+ 
+.ladypichead{
+    font-size: 22px;
+    color: white;
+}
+
+/* buttom */
+.whitebtn{
+    border: 1px solid white;
+    padding: 10px 20px;
+    background-color: transparent;
+    font-weight: 100;
+}
+.bluecolorbtn{
+    background-color: #23BDEE;
+    padding: 10px 20px;
+    border: none;
+    color: white;
+}

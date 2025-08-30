@@ -1,0 +1,19 @@
+.tools{
+    color:orange;
+    font-size: 28px;
+    font-weight: bold;
+}
+.For{
+    color:#2F327D;
+    font-size: 28px;
+    font-weight: bold;
+}
+.Tools-content{
+    font-size: 17px;
+    color:#696984;
+    padding: 5px;
+}
+.Toolsleft{
+    padding:83px 0px;
+    width: 90%;
+}

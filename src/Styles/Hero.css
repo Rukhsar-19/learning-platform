@@ -1,0 +1,212 @@
+.hero{
+   background-image: url('F:\LearningPlatform\learningplatform\src\Assests\backgroundheroheader.webp'); 
+  background-size: cover;        
+  background-position: center;   
+  background-repeat: no-repeat;  
+
+  border-radius: 10px; 
+}
+
+
+.orange-text {
+  color: orange;
+  font-size: 35px;
+  font-weight: bold;
+ 
+}
+.blue-text {
+  color: #2F327D;
+  font-size: 35px;
+  font-weight: bold;
+ 
+
+}
+/* .hero-study{
+  width:97%;
+
+} */
+.hero-left{
+  
+    margin-top: 100px;
+    width: 85%;
+}
+.hero-p{
+    font-size: 16px;
+    color:#464646;
+    padding: 24px 0px;
+    width:100%;
+}
+/* .changecolor{
+    color:#23BDEE;
+    background-color: white;
+  
+    font-size: 37px;
+    border-radius: 50%;
+      width: 60px; 
+  height: 52px;
+  text-align: center;
+
+    
+} */
+
+
+.joinbtn{
+  display: flex;
+  flex-direction: row;
+  gap:20px;
+  align-items: center;
+ 
+}
+.heroplaybtn{
+  border-radius: 50%;
+    background: white;
+    border: none;
+   padding: 2px 8px;
+    color: #23BDEE;
+}
+  .heroplaybtn i {
+  font-size: 26px; 
+}  
+
+.watch{
+  font-size: 16px;
+  text-align: center;
+  color: #252641;
+}
+.righthero{
+  position:relative;
+  /* overflow: hidden; */
+   width: 100%;
+  max-width: 100%;
+  height: auto;
+  overflow: visible;
+}
+
+/* All Labels  class same property Container  */
+ /* .Alllabels{
+    border-radius: 10px;
+      /* width:144%;  */
+       /* background: rgba(255, 255, 255, 0.8); 
+backdrop-filter:blur(10px);
+
+}   */
+
+/* calenderlabel */
+
+.calenderlabel{
+   position: absolute;
+      top: 235px;
+      left: -89px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      /* background: #FFFCF9; */
+         padding: 10px 16px;
+      border-radius: 10px;
+      /* width:144%;  */
+       background: rgba(255, 255, 255, 0.8); 
+backdrop-filter:blur(10px);
+
+      
+
+
+} 
+.calenderlabel img{
+   width: 40px;
+      height: 40px;
+}
+.calender-text{
+  display: flex;
+  flex-direction: column;
+}
+.Assisted{
+  font-size: 16px;
+  /* width:141%; */
+  width:auto;
+}
+
+
+/* UserExperience Label */
+.UserExperience{
+position: absolute;
+top:408px;
+left: -105px;
+/* background-color:  rgb(255 253 250); */
+display: flex;
+justify-content: center;
+/* width:169%; */
+border-radius: 20px;
+padding: 25px 17px;
+gap:10px;
+ background: rgba(255, 255, 255, 0.8); 
+backdrop-filter:blur(10px);
+
+
+}
+.UE-h{
+  font-size: 16px;
+  /* width:112%; */
+  width: auto;
+  margin: 0px;
+  font-weight: bold;
+}
+.UE-p{
+  font-size: 11px;
+  padding-bottom: 10px;
+}
+.UserExperience img{
+  width:40px;
+  height:40px;
+}
+.pink{
+  padding-top: 10px;
+  background-color: #D8587E;
+}
+
+/* email label */
+.congrulation{
+  position: absolute;
+top:339px;
+right:0;
+/* background-color: #FFFDFA; */
+display: flex;
+justify-content: center;
+/* width:181%; */
+ background: rgba(255, 255, 255, 0.8); 
+backdrop-filter:blur(10px);
+
+
+border-radius: 20px;
+padding: 20px  14px;
+gap:10px;
+}
+.emaillabel img{
+  width:40px;
+  height:40px;
+}
+.email-h{
+  font-size: 16px;
+  margin:0px;
+  font-weight: bold;
+}
+.email-p{
+  font-size: 14px;
+  /* width: 118%; */
+  width:auto ;
+}
+
+.greentick{
+  width:17px;
+
+}
+
+/* pink label */
+.pinklabel{
+overflow: visible;
+position: absolute;
+    top: 182px;
+    right: 0;
+    width: 90px;
+ 
+}
+

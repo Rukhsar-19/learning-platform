@@ -1,0 +1,76 @@
+.Footer {
+    background-color: #252641;
+}
+.footersec1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap:30px;
+   
+}
+.virtual{
+  
+    font-size: 15px;
+    color:white;
+    width:12%;
+    
+}
+.shortline{
+    width: 2px; 
+    height: 41px; 
+    background-color: #626381;
+}
+
+.newsletter{
+    font-size: 20px;
+    color:#B2B3CF;
+    text-align: center;
+    padding-top: 52px;
+}
+.subscribe-button{
+    background-color: #545AE8;
+    border: none;
+   
+}
+.subscribe-input{
+    border-radius: 20px;
+    padding: 5px;
+    background-color: transparent;
+    border: 1px solid  #83839A;
+    color:white;
+}
+.subscribe-form{
+    text-align: center;
+    color:#83839A;
+}
+.footerlast{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap:10px;
+   padding-top: 80px;
+}
+.shline{
+    width: 2px; 
+    height: 19px; 
+    background-color: #626381;
+
+}
+.career{
+    font-size: 15px;
+    color:#B2B3CF ;
+}
+.privacy{
+     font-size: 15px;
+    color:#B2B3CF ;
+}
+.Terms{
+    font-size: 15px;
+    color:#B2B3CF ; 
+}
+.rights{
+    font-size: 15px;
+    color:#83839A;
+    text-align: center;
+}

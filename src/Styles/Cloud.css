@@ -1,0 +1,83 @@
+.cloud {
+    background-color: #f5f5f5;;
+}
+
+
+.cloud-all{
+    text-align: center;
+    margin-bottom: 20px;
+}
+.cloud-content{
+    margin-bottom: 76px;
+}
+
+.All-one{
+    color:#2F327D;
+    font-size: 30px;
+    font-weight: bold;
+}
+.cloudsoftware{
+    color: orange;
+    font-size: 30px;
+    font-weight: bold;
+}
+.cloud-text{
+    font-size: 19px;
+    color:#696984;
+   /* padding: 20px 152px;
+   text-align: center; */
+       width: 52%;
+    margin: auto;
+    text-align: center;
+}
+.billingcontent{
+    background-color: white;
+   
+    border-radius: 10px;
+    /* height for col all equal */
+    height: 358px;
+        padding: 78px 20px;
+    width: 100%;
+  
+   
+}
+
+ .software{
+  
+   position: absolute;
+   top:-35px;
+   
+   left: 50%;
+    transform: translateX(-50%);
+    /* text-align: center; */
+  
+
+ }
+ .rounded-img{
+    border-radius: 50%;
+ }
+ /* pics software */
+ .allmidpic{
+    position: relative;
+    z-index: 2;
+
+   
+ }
+
+
+
+ .softwarehead{
+    font-size: 23px;
+    color:#2F327D;
+    /* padding:5px 67px ; */
+    text-align: center;
+    /* width:106%; */
+    
+ }
+
+ .softwarecontent{
+    /* padding: 10px 38px; */
+    text-align: center;
+    font-size: 16px;
+    color:#696984;
+ }

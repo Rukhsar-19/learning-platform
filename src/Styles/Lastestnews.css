@@ -1,0 +1,81 @@
+.Lastesth{
+    text-align: center;
+}
+.lastest-h{
+    color:#2F327D;
+    font-size: 22px;
+}
+.lastest-c{
+    color:#696984;
+    font-size: 15px;
+    padding: 20px 0px;
+}
+.lastesttag{
+     display: inline-block;
+      padding: 7px 18px;
+      background-color: #F9C74F; 
+      color: #1A1A1A; 
+      font-weight: bold;
+      border-radius: 999px; 
+     
+      font-size: 12px;
+}
+ .latestleft{
+    /* padding:23px; */ 
+}
+.lastestleft-head{
+    color:#252641;
+    font-size: 20px;
+    padding: 10px 0px;
+}
+.lastestleft-para{
+    color:#696984;
+    font-size: 19px;
+
+}
+.readmore{
+    text-decoration: underline;
+    font-size: 15px;
+    color:#696984;
+    padding: 10px 0px;
+}
+
+
+/* right pics col */
+
+.rr{
+    display: flex;
+    gap:23px;
+    /* position: relative;
+    z-index: 1; */
+        margin: 10px 0px;
+} 
+.lastestright-hh{
+    font-size: 18px;
+    color:#252641;
+    /* width:150%; */
+}
+.lastestright-cc{
+    color:#696984;
+    font-size: 16px;
+}
+.taginpic{
+    position:absolute;
+       top: 145px;
+    left: 136px;
+
+}
+.lastestleft{
+    padding: 14px 0px;
+}
+
+.imagewrapp{
+    position:relative;
+    z-index: 1;
+}
+.bothtagandpic{
+    position: absolute;
+    right: 13px;
+    bottom: 0px;
+    top: 143px;
+}

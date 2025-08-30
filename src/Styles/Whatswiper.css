@@ -1,0 +1,163 @@
+ 
+.what-heading {
+  position: relative;
+  padding-left: 65px;
+ font-size: 13px;
+  color:#525596;
+
+}
+
+.what-heading::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 50px;
+  height: 1px;
+  background-color: #525596;
+  transform: translateY(-50%);
+}
+.what-h{
+    color:#2F327D;
+    font-size: 30px;
+    font-weight: bold;
+}
+.what-content{
+    color:#696984;
+    font-size: 17px;
+    padding:10px;
+}
+   .orangebutton{
+  padding:0;
+  background: transparent;
+  color:orange;
+  border:1px solid orange;
+} 
+
+
+.circle-icon i {
+  font-size: 20px;
+  line-height: 1;
+  border: orange;
+  border-radius: 50%;
+
+}
+
+.circle-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 43px;
+  height: 47px;
+  border: 1px solid orange;
+  border-radius: 50%;
+  padding: 28px;
+ 
+}
+.write{
+  font-size: 17px;
+  padding: 13px;
+}
+
+/* ppppp */
+
+
+.testimonial-image{
+  position: relative;
+  overflow:visible !important;
+  z-index: 1;
+}
+
+.testimonial-card {
+  background: #fff;
+  padding: 32px;
+  border-radius: 6px; 
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+  text-align: left;
+  position: absolute;
+    top: 189px;
+    left: 40px;
+    width: 343px;
+    z-index: 1000;
+    overflow: visible !important;
+}
+/* use ladyswiper as parentclass myswiper i use ladyswiper visibleimportant then swiper overflowhiden show */
+.ladyswiper{
+  overflow: visible !important;
+}
+
+.testimonial-rating{
+  float: right;
+}
+.starfill{
+  color:orange;
+}
+.review-count{
+  font-size: 15px;
+  color:#80819A;
+}
+.testimonial-text{
+  color:#5F5F7E;
+  font-size: 15px;
+  padding-top: 20px 0px;
+}
+.testimonial-author{
+  font-size: 15px;
+  color:#5F5F7E;
+  float: left;
+  font-weight: bold;
+}
+
+/* redline  */
+
+.highlight-lines {
+  position: absolute;
+  left: 0;
+  top: 0;
+  height: 196%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.red-line {
+  width: 5px;
+  height: 50%;
+  background-color: #FF5A5F;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+}
+
+
+.greyll{
+   position: absolute;
+  left: 12px;
+  top: 15px;
+  height: 117%;
+}
+
+ .grey-line {
+  width: 2px;
+  height: 51%;
+  background-color: #E0E0E0;
+ 
+} 
+/* next btn in swiper */
+.picbtn {
+ position: absolute;
+    top: 96px;
+    left: 245px;
+    z-index: 1;
+}
+/* swiperbtn */
+.navbtn {
+  background-color: white;
+  color: #1EA4CE; 
+  border-radius: 50%;
+  padding: 10px;
+  font-size: 24px; 
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2); 
+  
+}
+/* swiperbtn */
+

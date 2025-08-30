@@ -1,0 +1,52 @@
+.integrationleftpics{
+    display: flex;
+    flex-direction: column;
+    gap:43px;
+   
+}
+.integrationremain{
+    display: flex;
+    flex-direction: column;
+    gap:43px;
+}
+.whole{
+    display: flex;
+    flex-direction: row;
+    gap:64px;
+    padding: 76px;
+}
+/* right */
+
+
+.integration-heading {
+  position: relative;
+  padding-left: 65px;
+ font-size: 15px;
+  color:#525596;
+
+}
+
+.integration-heading::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 50px;
+  height: 1px;
+  background-color: #525596;
+  transform: translateY(-50%);
+}
+.int-h{
+    color:#2F327D;
+    font-size:25px;
+
+}
+.int-two{
+    color:orange;
+    font-size: 25px;
+}
+.int-content{
+    font-size: 17px;
+    color:#696984;
+        padding: 32px 0px;
+}

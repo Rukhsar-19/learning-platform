@@ -1,0 +1,15 @@
+.companies-h{
+    font-size: 22px;
+    font-weight: lighter;
+    color:#696984;
+    text-align: center;
+}
+.company-logos{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 78px;
+    margin-top: 31px;
+
+}

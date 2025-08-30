@@ -1,0 +1,32 @@
+.one-head{
+    font-size:28px ;
+    color:#2F327D
+}
+.discussion{
+    color:orange;
+    font-size: 28px;
+
+}
+.one-content{
+    font-size: 17px;
+    color:#696984;
+    width:170%;
+}
+.onetoone{
+    padding:31px 90px;
+    width:77%;
+}
+/* .orangebutton{
+    color:orange;
+    border:1px solid orange;
+} */
+.btn-orange{
+    text-align: center;
+    margin-top: 70px;
+}
+.classtoday{
+    color:orange;
+    border:1px solid orange;
+    padding:10px 23px;
+    background-color: transparent;
+}

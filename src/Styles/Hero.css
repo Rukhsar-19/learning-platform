@@ -1,6 +1,6 @@
 .hero{
-   background-image: url('F:\LearningPlatform\learningplatform\src\Assests\backgroundheroheader.webp'); 
-  background-size: cover;        
+   background-image: url('../Assests/backgroundheroheader.webp'); 
+  background-size: cover;       
   background-position: center;   
   background-repeat: no-repeat;  
 
